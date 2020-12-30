@@ -31,5 +31,42 @@ p{
     text-align:center ;
     font-style: italic;
 }
+body{
+    background-image:url("Attack_on_Titan_The_Final_Season_Key_Visual_1.jpg");
+background-repeat: no-repeat;
+background-size: 380px;
+background-position:center right;
+}
+h1{
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+color:purple;
+font-weight: bolder;
+}
+article{
+    font-style: normal;
+    font-size: 30px;
+    font-weight: bolder;
+text-align: center;
+color:green;
+}
+p{
+    font-family: cursive;
+    font-size:25px;
+    opacity: 80%;
+    color:black;
+}
+h2{
+    font-family: cursive;
+    text-align: bottom;
+    font-size: 30px;
+    font-weight: bold;
+    color:brown;
+}
+class{
+    font-size: 25px;
+    font-family:serif;
+    text-align: left;
+    color:royalblue
+}
 
 
